@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd6bc66f.css",
-    "main.js": "/static/js/main.ff02453d.js",
-    "static/js/787.2f1b3335.chunk.js": "/static/js/787.2f1b3335.chunk.js",
-    "index.html": "/index.html",
-    "main.fd6bc66f.css.map": "/static/css/main.fd6bc66f.css.map",
-    "main.ff02453d.js.map": "/static/js/main.ff02453d.js.map",
-    "787.2f1b3335.chunk.js.map": "/static/js/787.2f1b3335.chunk.js.map"
+    "main.css": "/elden-ring-messenger/static/css/main.fd6bc66f.css",
+    "main.js": "/elden-ring-messenger/static/js/main.c0a3572e.js",
+    "static/js/787.2f1b3335.chunk.js": "/elden-ring-messenger/static/js/787.2f1b3335.chunk.js",
+    "index.html": "/elden-ring-messenger/index.html",
+    "main.fd6bc66f.css.map": "/elden-ring-messenger/static/css/main.fd6bc66f.css.map",
+    "main.c0a3572e.js.map": "/elden-ring-messenger/static/js/main.c0a3572e.js.map",
+    "787.2f1b3335.chunk.js.map": "/elden-ring-messenger/static/js/787.2f1b3335.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6bc66f.css",
-    "static/js/main.ff02453d.js"
+    "static/js/main.c0a3572e.js"
   ]
 }
