@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/elden-ring-messenger/static/css/main.fd6bc66f.css",
-    "main.js": "/elden-ring-messenger/static/js/main.e6a119b5.js",
+    "main.css": "/elden-ring-messenger/static/css/main.d4771122.css",
+    "main.js": "/elden-ring-messenger/static/js/main.676f373c.js",
     "static/js/787.2f1b3335.chunk.js": "/elden-ring-messenger/static/js/787.2f1b3335.chunk.js",
     "index.html": "/elden-ring-messenger/index.html",
-    "main.fd6bc66f.css.map": "/elden-ring-messenger/static/css/main.fd6bc66f.css.map",
-    "main.e6a119b5.js.map": "/elden-ring-messenger/static/js/main.e6a119b5.js.map",
+    "main.d4771122.css.map": "/elden-ring-messenger/static/css/main.d4771122.css.map",
+    "main.676f373c.js.map": "/elden-ring-messenger/static/js/main.676f373c.js.map",
     "787.2f1b3335.chunk.js.map": "/elden-ring-messenger/static/js/787.2f1b3335.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd6bc66f.css",
-    "static/js/main.e6a119b5.js"
+    "static/css/main.d4771122.css",
+    "static/js/main.676f373c.js"
   ]
 }
