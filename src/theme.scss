@@ -1,0 +1,12 @@
+$primary: #38352D;
+$secondary: #3D3B2F;
+$light: #B1A284;
+$dark: #151515;
+$body-bg: #39342F;
+$body-color: #BAB4A4;
+
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/utilities";
+
+@import '~bootstrap/scss/bootstrap.scss';
