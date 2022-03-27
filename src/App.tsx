@@ -20,7 +20,7 @@ const App = () => {
                 }
             </div>
             <div className="mb-1">
-                <Card>
+                <Card className="bg-secondary">
                     <Card.Header>Templates</Card.Header>
                     <Card.Body>
                         {
@@ -40,7 +40,7 @@ const App = () => {
             {
                 message.length ?
                     <div className="mb-1">
-                        <Card>
+                        <Card className="bg-secondary">
                             <Card.Header>Words</Card.Header>
                             <Card.Body>
                                 {
@@ -62,8 +62,8 @@ const App = () => {
             }
             {
                 word ?
-                    <div>
-                        <Card>
+                    <div className="mb-1">
+                        <Card className="bg-secondary">
                             <Card.Header>{word}</Card.Header>
                             <Card.Body>
                                 {
