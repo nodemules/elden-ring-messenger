@@ -24,7 +24,7 @@ const App = () => {
                     <Card.Header>Templates</Card.Header>
                     <Card.Body>
                         {
-                            (templates as string[]).map(template => (
+                            templates.map(template => (
                                 <Button
                                     key={template}
                                     className="m-1"
@@ -44,7 +44,7 @@ const App = () => {
                             <Card.Header>Words</Card.Header>
                             <Card.Body>
                                 {
-                                    Object.keys(dictionary as Record<Word, string[]>).map(word => (
+                                    Object.keys(dictionary).map(word => (
                                         <Button
                                             key={word}
                                             className="m-1"
