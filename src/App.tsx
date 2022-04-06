@@ -9,11 +9,26 @@ const {dictionary, templates} = data
 const App = () => {
     const [message, setMessage] = useState<string>('');
     const [word, setWord] = useState<Word>();
-    const [option, setOption] = useState<string>('')
+    const [option, setOption] = useState<string>('');
+
+    const reset = () => {
+      setMessage('');
+      setWord(undefined);
+    };
+
     return (
         <Container>
             <h1>Elden Ring Message Generator</h1>
             <p>Here we will generate some Elden Ring messages</p>
+          <div>
+            <Button
+            className="m-1"
+            onClick={reset}
+            disabled={!message}
+            >
+              Start Over
+            </Button>
+          </div>
             <div className="mb-3" style={{textAlign: 'center'}}>
                 {
                     option ? message.replace('****', option) : message
